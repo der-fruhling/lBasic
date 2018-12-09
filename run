@@ -1,0 +1,5 @@
+gcc start.cpp -o start
+gcc basic/main.cpp -o basic/main
+gcc basic/edit.cpp -o basic/edit
+
+./start
